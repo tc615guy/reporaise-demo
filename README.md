@@ -6,3 +6,4 @@ This update addresses Issue #4 by refining the README instructions.
 
 fixing this
  main
+\nAdditional onboarding tips for Issue #5.
